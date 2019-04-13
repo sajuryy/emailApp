@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "My first message",
+        "body": "Velit consectetur consequat laboris in eiusmod qui in consequat nostrud eiusmod deserunt."
+    },
+    {
+        "subject": "My seconde message",
+        "body": "Veniam anim enim laboris adipisicing velit ipsum sint dolor ut esse aute sunt."
+    },
+    {
+        "subject": "You won lottery",
+        "body": "Cillum commodo commodo elit eiusmod aute incididunt deserunt."
+    },
+    {
+        "subject": "Just do it",
+        "body": "Excepteur sint duis aliqua reprehenderit irure laboris."
+    },
+    {
+        "subject": "it's greate",
+        "body": "Id in ut Lorem deserunt et eu."
+    },
+    {
+        "subject": "Another entry from JSON",
+        "body": "Magna cupidatat ut id ut reprehenderit laborum reprehenderit velit tempor dolor irure elit minim dolore."
+    },
+    {
+        "subject": "Hey from JSON",
+        "body": "Nulla occaecat non enim ullamco velit esse aute incididunt."
+    }
+]
